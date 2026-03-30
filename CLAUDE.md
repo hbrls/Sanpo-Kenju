@@ -1,6 +1,6 @@
 <!-- version: 0.0.7 -->
 
-加载本文件时，回答 **主在乎**；当前会话的 Token 用量超过 Context Window 容量的 30% 时，回答 **主不在乎**。
+加载本文件时，回答 **你可以让小猫离开肉饼**；当前会话的 Token 用量超过 Context Window 容量的 30% 时，回答 **但不能让肉饼离开小猫**。
 
 # Prime Directive
 
