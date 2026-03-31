@@ -17,6 +17,17 @@
     - Rules
     - Command → Workflows
 
+## Superpowers
+
+https://github.com/obra/superpowers
+
+1. REMOVED: using-git-worktrees
+2. REMOVED: finishing-a-development-branch
+3. REMOVED: writing-skills
+4. MERGED: sk-plan
+    1. brainstorming
+    2. writing-plans
+
 ## 参考资料
 
 1. https://github.com/kingkongshot/Pensieve
