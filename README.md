@@ -31,6 +31,13 @@ https://github.com/obra/superpowers
 6. MERGED: sk-evaluate-task
     1. verification-before-completion
 
+## Gstack
+
+https://github.com/garrytan/gstack
+
+1. REMOVED: browse
+2. REMOVED: setup-browser-cookies
+
 ## 参考资料
 
 1. https://github.com/kingkongshot/Pensieve
