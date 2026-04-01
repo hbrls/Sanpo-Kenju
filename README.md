@@ -28,6 +28,13 @@ https://github.com/obra/superpowers
     1. brainstorming
     2. writing-plans
 
+## Gstack
+
+https://github.com/garrytan/gstack
+
+1. REMOVED: browse
+2. REMOVED: setup-browser-cookies
+
 ## 参考资料
 
 1. https://github.com/kingkongshot/Pensieve
